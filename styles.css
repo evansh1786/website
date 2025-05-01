@@ -1,0 +1,20 @@
+/* Basic styling for the website */
+body {
+    font-family: Arial, sans-serif;
+}
+
+header, nav, footer {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 1em;
+}
+
+    nav ul {
+        list-style-type: none;
+        padding: 0;
+    }
+
+main {
+    margin: 20px;
+}
